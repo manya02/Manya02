@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Food website](https://manya02.github.io/DodoFoodSite/)
 
-- 🌱 I’m currently learning **javascript,Django**
+- 🌱 I’m currently learning **javascript**
 
 - 💬 Ask me about **below languages and tools**
 
